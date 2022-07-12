@@ -14,38 +14,12 @@ html, body {height:auto;}
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 10px;
 }
-
-/*
-.menu ul li{
-    color:#391313;
-    width: 200px;
-    height: 40px;
-    display: inline-block;
-    text-align: center;
-    line-height: 32px;
-    font-size: 32px;
-    list-style: none;
-    margin-right: 1.25%;
-    }
-
-.menu ul li:hover{
-    background-color: #f4beb9;
-    width: 200px;
-    height: 100%;
-    opacity: 0.6;
-    transition: 0.3s;
-    border-radius: 10%;
-}
-
-.menu a{
-    color:#391313;
-    text-decoration: none;
-} */
 
 /* Adiciona cor ao fundo do menu */
 .menuGeral{
-    background-color: #333;
+    background-color: #391313;
     overflow: hidden;
 }
 
@@ -53,7 +27,7 @@ html, body {height:auto;}
 .menuGeral a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #ffd9cc;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -62,14 +36,14 @@ html, body {height:auto;}
 
 /* Muda a cor dos links durante o hover */
 .menuGeral a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #ffd9cc;
+    color: #391313;
 }
 
 /* Adiciona a classe active para ressaltar a página atual */
 .menuGeral a.active {
-    background-color: #04AA6D;
-    color: white;
+    background-color: #391313;
+    color: #ffd9cc;
 }
 
 /* Esconde os links que deveriam abrir e fechar o menuGEral em telas pequenas */
