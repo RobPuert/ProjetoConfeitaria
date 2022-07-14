@@ -92,3 +92,21 @@ body {
     width: 99%;
     color:#391313;
 }
+
+.whatsapp_logo{
+    width: 90%;
+    max-width: 50px;
+    height: auto;
+}
+
+.instagram_logo{
+    width: 90%;
+    max-width: 50px;
+    height: auto;
+}
+
+.facebook_logo{
+    width: 90%;
+    max-width: 50px;
+    height: auto;
+}
