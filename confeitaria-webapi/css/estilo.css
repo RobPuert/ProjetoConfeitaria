@@ -91,22 +91,27 @@ body {
     text-align: center;
     width: 99%;
     color:#391313;
+    padding-top: 10px;
 }
 
 .whatsapp_logo{
     width: 90%;
-    max-width: 50px;
+    max-width: 57px;
     height: auto;
+    padding-bottom: 5px;
+    padding-top: 10%;
 }
 
 .instagram_logo{
     width: 90%;
     max-width: 50px;
     height: auto;
+    padding-bottom: 7px;
 }
 
 .facebook_logo{
     width: 90%;
     max-width: 50px;
     height: auto;
+    padding-bottom: 10%;
 }
